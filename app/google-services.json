@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820112594666",
+    "firebase_url": "https://talky-bdd01.firebaseio.com",
+    "project_id": "talky-bdd01",
+    "storage_bucket": "talky-bdd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820112594666:android:cda196dd58264b2b376993",
+        "android_client_info": {
+          "package_name": "com.bhaveshsp.talky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820112594666-gedd37ll2fv673tg4l1a3vef16f7m8i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhaveshsp.talky",
+            "certificate_hash": "04a51f674bbd92da77dfb6f21d475d8f94fc16d3"
+          }
+        },
+        {
+          "client_id": "820112594666-vsrod40setlpfh8tusrkesi5b96l6pnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBem3UPuBnF324IobT7iAXNdd2QHnberms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820112594666-vsrod40setlpfh8tusrkesi5b96l6pnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
